@@ -1,0 +1,13 @@
+Keyboard registry key : 
+{4D36E96B-E325-11CE-BFC1-08002BE10318}
+
+Keyboard "Upperfilters" multi-string value : 
+kbdclass
+
+--------------------------------------------------------------------------------------------
+
+Mouse registry key : 
+{4D36E96F-E325-11CE-BFC1-08002BE10318}
+
+Mouse "Upperfilters" multi-string value : 
+Mouclass
